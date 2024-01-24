@@ -1,7 +1,6 @@
 import { childPropReceiver } from '../../types/types';
 
 const Receiver = (props: childPropReceiver) => {
-  console.log(props);
   return (
     <div>
       Receiver
